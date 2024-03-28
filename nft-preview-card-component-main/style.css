@@ -1,0 +1,85 @@
+body{
+    background-color:hsl(217, 54%, 11%);
+    width: 1440px;
+}
+.div_1{
+    background-color: hsl(216, 50%, 16%);
+    width: 300px;
+    height: 500px;
+    margin-left: 570px;
+    margin-top: -530px;
+    border-radius: 3%;
+}
+
+.images_1{
+    width: 250px;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 3%;
+}
+p{
+    color: hsl(0, 0%, 100%);
+    margin-left: 30px;
+    font-family: "Outfit", sans-serif;
+
+}
+.p_2{
+    color:hsl(215, 51%, 70%);
+    font-family: "Outfit", sans-serif;
+}
+.svg_1{
+    margin-left: 30px;
+}
+.p_3{
+    margin-left: 50px;
+    margin-top: -23px;
+    font-size: 15px;
+    color: hsl(178, 100%, 50%);
+}
+
+
+.p_4{
+    margin-left: 220px;
+    margin-top: -20px;
+    font-size: 11px;
+    font-family: "Outfit", sans-serif;
+    color: hsl(215, 51%, 70%);
+
+
+}
+.div_2{
+    margin-left: 200px;
+    margin-top: -30px;
+}
+.div_3{
+    background-color:hsl(217, 56%, 11%);
+    
+    width: 340px;
+    height: 550px;
+    margin-left: 550px;
+    margin-top: 150px;
+    border-radius: 5%;
+}
+.image_2{
+   width: 30px;
+   margin-top: 30px;
+   margin-left: 30px;
+   border-radius: 2px solid white;
+   
+}
+.p_5{
+    font-family: "Outfit", sans-serif; 
+    margin-left: 70px;
+    margin-top: -30px;
+    color:hsl(215, 51%, 70%) ;
+    font-size: 15px;
+
+}
+.p_6{
+    font-family: "Outfit", sans-serif;
+    margin-left: 145px;
+    margin-top: -32px;
+    font-size: 13px;
+
+}
+
